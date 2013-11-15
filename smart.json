@@ -3,6 +3,6 @@
 	"description": "Node-Stripe brought to Meteor.",
 	"homepage": "https://github.com/alexeymk/stripe-meteor",
 	"author": "Alexey Komissarouk (http://alexeymk.com)",
-	"version": "0.1.0",
-	"git": "https://github.com/alexeymk/stripe-meteor.git"
+	"version": "0.1.2",
+	"git": "https://github.com/AlexeyMK/stripe-meteor.git"
 }

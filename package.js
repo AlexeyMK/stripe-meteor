@@ -2,7 +2,7 @@ Package.describe({
   summary: "Node-Stripe brought to Meteor.  Server-only fork of https://github.com/appleifreak/stripe-meteor"
 });
 
-Npm.depends({ "stripe": "2.1.0-rc3" });
+Npm.depends({ "stripe": "2.2.1" });
 
 Package.on_use(function (api) {
 

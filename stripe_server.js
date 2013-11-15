@@ -1,1 +1,1 @@
-this.StripeAPI = Npm.require('stripe');
+StripeAPI = Npm.require('stripe');
