@@ -2,15 +2,7 @@ A Meteor package containing Stripe.js (<https://stripe.com/docs/stripe.js>, dire
 
 **Note**: This fork is for the server component of the Stripe library only, in case that's all you needed.
 
-## Usage
-
-### Client
-
-The same as in the Stripe docs (<https://stripe.com/docs/stripe.js>). Example for reference:
-
-    Stripe.setPublishableKey('YOUR_PUBLISHABLE_KEY');
-
-### Server
+## Usage - Server
 
 To initiate a Stripe object:
 
